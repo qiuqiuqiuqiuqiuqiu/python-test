@@ -110,3 +110,4 @@ venv.bak/
 .idea/python-test.iml
 .idea/workspace.xml
 .idea/misc.xml
+.idea/
