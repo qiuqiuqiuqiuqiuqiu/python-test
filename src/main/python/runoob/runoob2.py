@@ -5,7 +5,7 @@ def runoob2():
     print "I'm in runoob2"
 
 try:
-    fh = open("../../../resources/testfile", "w")
+    fh = open("../../resources/testfile", "w")
     fh.write("this is a test")
 except IOError, err:
     print "IOError",err
@@ -14,7 +14,7 @@ else:
 
 
 try:
-    fh = open("../../../resources/testfile", "w")
+    fh = open("../../resources/testfile", "w")
     fh.write("this is a test")
 except IOError, err:
     print "IOError", err

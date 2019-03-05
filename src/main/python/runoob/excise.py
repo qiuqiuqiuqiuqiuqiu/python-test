@@ -3,8 +3,8 @@
 
 import time
 import calendar
-from src.runoob import support
 import math
+import support
 
 print "Hello World!"
 
